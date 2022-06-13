@@ -1,2 +1,2 @@
-# two_number_one_byte
+# Two numbers one byte
 How to save 2 numbers in 1 byte
